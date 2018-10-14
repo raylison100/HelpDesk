@@ -112,7 +112,7 @@ public class UserController {
     }
 
 
-    @DeleteMapping(value = "{id}")
+     @DeleteMapping(value = "{id}")
     @PreAuthorize("hasAnyRole('ADMIN')")
     public ResponseEntity<Response<String>> delete(@PathVariable("id") String id){
 
