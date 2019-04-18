@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>br.com.helpdesk</groupId>
-    <artifactId>helpdesk</artifactId>
+    <groupId>br.com.UserSpringSecurityExample</groupId>
+    <artifactId>UserSpringSecurityExample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>HelpDesk</name>
-    <description>Project HelpDesk</description>
+    <name>UserSpringSecurityExample</name>
+    <description>UserSpringSecurityExample</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
